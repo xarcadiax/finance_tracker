@@ -4,9 +4,6 @@
   background-color: black !important;
 }
 
-.nav-link {
-  color: white !important;
-}
 
 #logo {
   float: left;
@@ -36,4 +33,11 @@
 
 .results-block {
   display: inline-block;
+  margin-bottom: 1rem;
 }
+
+.logout-button {
+  margin-right: 0.5rem;
+  
+}
+
